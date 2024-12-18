@@ -1,15 +1,3 @@
-공통 가이드 템플릿은 모든 형식의 가이드 문서에서 기본적으로 따라야 할 공통적인 템플릿입니다. 콘솔 사용 가이드, API 가이드, 리소스 제공 정책, 보안 정책, 설치 구성 요소 가이드와 같은 다양한 가이드를 본 템플릿을 이용해 작성합니다.
-
-* API 가이드를 제외한 모든 가이드의 타깃 독자는 개발 지식이 없는 일반 사용자(NHN Cloud 이용자)로 설정하며, 사용자가 특정 목적을 달성하는 데 필요한 정보를 최대한 자세하고 구체적으로 작성합니다.
-* 가이드 작성 템플릿은 가이드에 반드시 포함해야 할 내용의 최소 기준입니다. 템플릿에서 제시하는 내용 외에 서비스별로 더 필요한 내용이 있다면 자유롭게 추가할 수 있습니다.
-* 페이지는 문서 제목(Heading 1, #) 단위로 모듈화합니다.
-* `{ }`로 표시된 부분에 작성할 내용을 입력합니다.
-* 제목, 단락, 목록, 이미지, 표, 코드 블록, 노트 박스 등 블록 레벨 요소가 변경될 때 중간에 빈 줄을 추가하여 각 요소를 구분합니다. 빈 줄을 추가하지 않을 경우 문서를 퍼블리싱했을 때 깨짐 오류가 발생하는 등 작성 의도대로 적용되지 않을 수 있습니다. 자세한 내용은 [NHN Cloud 가이드 문서 템플릿 활용 가이드](https://nhnent.dooray.com/share/pages/zzvZY-57RG6imxkuc_-blA)의 ※ 마크다운 작성 시 유의 사항을 확인하세요.
-* 자세한 내용은 [NHN Cloud 가이드 문서 템플릿 활용 가이드](https://nhnent.dooray.com/share/pages/zzvZY-57RG6imxkuc_-blA)를 참고하여 작성합니다.
-* 본 템플릿이 적용된 예는 [Block Storage 생성](https://docs.alpha-nhncloud.com/ko/Open%20Source/TW/ko/create-block-storage/), [Block Storage 크기 변경](https://docs.alpha-nhncloud.com/ko/Open%20Source/TW/ko/resize-block-storage/), [Block Storage 연결 관리](https://docs.alpha-nhncloud.com/ko/Open%20Source/TW/ko/connect-manage/)와 같은 샘플 페이지를 참고할 수 있습니다. 샘플 페이지는 콘솔 사용 가이드를 기반으로 작성되었으며, 이 밖에 다른 가이드에도 템플릿을 적용할 수 있습니다.
-
----
-
 # Storage > Veritas Backup > 개요
 
 Veritas Backup은 파일과 데이터베이스(DB)를 모두 백업할 수 있는 종합적인 백업 솔루션입니다. 온프레미스와 클라우드 환경에서 모두 사용 가능하며, 데이터 손실 위험을 최소화하고 시스템 장애 시 신속한 복구를 지원합니다.<br> 자동화된 백업 스케줄링과 중복 제거 기능을 통해 스토리지 비용을 절감하고, 복잡한 IT 환경에서도 다양한 데이터베이스와 애플리케이션을 안정적으로 관리할 수 있습니다. Veritas Backup은 기업의 데이터 보호 및 비즈니스 연속성을 보장하는 솔루션입니다.
