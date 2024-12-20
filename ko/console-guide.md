@@ -1,5 +1,7 @@
 # Storage > Veritas Backup > 콘솔 사용 가이드
-Veritas Backup을 생성하기 위한 절차와 생성 이후 콘솔을 사용하는 방법을 설명합니다.
+** Storage > Veritas Backup > 콘솔 사용 가이드 > 백업 및 복구**
+이 문서에서는 Veritas Backup을 생성하기 위한 절차와 생성 이후 콘솔을 사용하는 방법을 설명합니다.
+먼저 [프로젝트 서비스 활성화 가이드](https://docs.nhncloud.com/ko/nhncloud/ko/console-guide/#_21)를 참고하여 Veritas Backup 서비스를 활성화하세요.
 
 
 ## 백업 에이전트 설치
