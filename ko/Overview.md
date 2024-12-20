@@ -90,5 +90,5 @@ Veritas Backup에서 백업을 진행하신 이력이 존재하고 복구할 데
 * Linux: /usr/openv/netbackup
 * Windows: C:\Program Files\Veritas
 ### 백업 프로그램 데몬(프로세스) 정보
-* Linux : /usr/openv/netbackup/bin/bpps -x
+* Linux: /usr/openv/netbackup/bin/bpps -x
 * Windows: C:\Program Files\Veritas\Netbackup\bin\bpps.exe<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RUN - Services.msc - NetBackup Process
