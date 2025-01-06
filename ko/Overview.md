@@ -4,7 +4,6 @@ Veritas Backup은 파일과 데이터베이스(DB)를 모두 백업할 수 있�
 
 ![NHN Cloud_Guide overview_VeritasBackup_800](https://github.com/user-attachments/assets/39d50e05-c4ae-4b14-a001-b60b5b6b5fe9)
 
-
 ## Veritas Backup 주요 기능
 
 * 종합 백업 솔루션
