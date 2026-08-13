@@ -4,7 +4,8 @@ Veritas Backup은 파일과 데이터베이스(DB)를 모두 백업할 수 있�
 
 ![NHN Cloud_Guide overview_VeritasBackup_800](https://github.com/user-attachments/assets/39d50e05-c4ae-4b14-a001-b60b5b6b5fe9)
 
-## Veritas Backup 주요 기능
+<a id="section-1"></a>
+## Veritas Backup 주요 기능 { #section-1 }
 
 * 종합 백업 솔루션
   * 파일뿐만 아니라 중요한 데이터베이스(DB)까지 안전하게 백업하여 기업의 모든 데이터를 종합적으로 보호합니다.
@@ -24,7 +25,8 @@ Veritas Backup은 파일과 데이터베이스(DB)를 모두 백업할 수 있�
   * 백업 결과 조회
     * **백업 신청 내역 > 리포트** 탭에서 상세 내역을 확인할 수 있습니다.
 
-## 지원하는 운영체제
+<a id="section-2"></a>
+## 지원하는 운영체제 { #section-2 }
 
 Veritas Backup에서 지원하는 운영체제는 다음과 같습니다.
 
@@ -37,13 +39,17 @@ Veritas Backup에서 지원하는 운영체제는 다음과 같습니다.
 | Rocky| x64 | Rocky Linux 8.10 |
 
 
-## 참고 사항
+<a id="section-3"></a>
+## 참고 사항 { #section-3 }
 
-### 백업 소프트웨어
+<a id="section-3-1"></a>
+### 백업 소프트웨어 { #section-3-1 }
 * Veritas Netbackup
-### 백업 프로그램 설치 위치
+<a id="section-3-2"></a>
+### 백업 프로그램 설치 위치 { #section-3-2 }
 * Linux: /usr/openv/netbackup
 * Windows: C:\Program Files\Veritas
-### 백업 프로그램 데몬(프로세스) 정보
+<a id="section-3-3"></a>
+### 백업 프로그램 데몬(프로세스) 정보 { #section-3-3 }
 * Linux: /usr/openv/netbackup/bin/bpps -x
 * Windows: C:\Program Files\Veritas\Netbackup\bin\bpps.exe<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RUN - Services.msc - NetBackup Process
