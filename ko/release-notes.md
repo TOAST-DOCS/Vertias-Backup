@@ -1,15 +1,19 @@
 # Veritas Backup 릴리스 노트
 **Storage > Veritas Backup > 릴리스 노트**
 
-## 2025. 9. 15.
+<a id="december-9-2025"></a>
+## 2025. 9. 15. { #december-9-2025 }
 
-### 리전 확장
+<a id="region-scaling"></a>
+### 리전 확장 { #region-scaling }
 
 * 한국(대구) 리전 (NGOVC, NGOIC Cloud) 서비스 출시
 
-## 2025. 6. 25.
+<a id="2025-6-25"></a>
+## 2025. 6. 25. { #2025-6-25 }
 
-### 기능 개선/변경
+<a id="feature-updates"></a>
+### 기능 개선/변경 { #feature-updates }
 
 * 백업 에이전트 설치 신청 및 검증 기능 자동화
 * 파일 백업/복구 신청 기능 자동화
@@ -18,8 +22,10 @@
 * 백업 신청 시 기본 백업 스케줄 설정으로 풀 백업 항목 추가
 * 복구 신청 시 작업일 추가
 
-## 2025. 3. 20.
+<a id="march-20-2025"></a>
+## 2025. 3. 20. { #march-20-2025 }
 
-### 신규 서비스 출시
+<a id="new-service-launch"></a>
+### 신규 서비스 출시 { #new-service-launch }
 
 * 한국(대구) 리전 (NGSC, NINC Cloud) 서비스 출시
