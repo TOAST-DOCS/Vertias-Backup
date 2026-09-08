@@ -4,16 +4,16 @@
 <a id="2025-9-15"></a>
 ## 2025. 9. 15. { #2025-9-15 }
 
-<a id="region-expansion"></a>
-### 리전 확장 { #region-expansion }
+<a id="2025-9-15-region-expansion"></a>
+### 리전 확장 { #2025-9-15-region-expansion }
 
 * 한국(대구) 리전 (NGOVC, NGOIC Cloud) 서비스 출시
 
 <a id="2025-6-25"></a>
 ## 2025. 6. 25. { #2025-6-25 }
 
-<a id="feature-updates"></a>
-### 기능 개선/변경 { #feature-updates }
+<a id="2025-6-25-feature-updates"></a>
+### 기능 개선/변경 { #2025-6-25-feature-updates }
 
 * 백업 에이전트 설치 신청 및 검증 기능 자동화
 * 파일 백업/복구 신청 기능 자동화
@@ -25,7 +25,7 @@
 <a id="2025-3-20"></a>
 ## 2025. 3. 20. { #2025-3-20 }
 
-<a id="new-service-launch"></a>
-### 신규 서비스 출시 { #new-service-launch }
+<a id="2025-3-20-new-service-launch"></a>
+### 신규 서비스 출시 { #2025-3-20-new-service-launch }
 
 * 한국(대구) 리전 (NGSC, NINC Cloud) 서비스 출시
