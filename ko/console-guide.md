@@ -1,7 +1,7 @@
 # 백업 및 복구
 **Storage > Veritas Backup > 콘솔 사용 가이드 > 백업 및 복구**<br>
 이 문서는 Veritas Backup 서비스를 활성화하고, 활성화 이후 콘솔에서 백업 에이전트 설치·백업·복구 기능을 활용하는 방법을 안내합니다.
-먼저 [프로젝트 서비스 활성화 가이드](https://docs.nhncloud.com/ko/nhncloud/ko/console-guide/#_21)를 참고해 Veritas Backup 서비스를 활성화하세요.
+먼저 [프로젝트 서비스 활성화 가이드](https://docs.nhncloud.com/ko/nhncloud/ko/console-guide/#guide-to-enabling-project-services)를 참고해 Veritas Backup 서비스를 활성화하세요.
 
 조직과 프로젝트를 선택한 뒤 NHN Cloud 콘솔 GNB(Global Navigation Bar)의 **Storage > Veritas Backup** 메뉴로 이동하면 에이전트, 백업, 복구, 리포트 네 가지 기능을 사용할 수 있습니다. 리포트 메뉴에서는 모든 백업 및 복구 리포트를 한눈에 조회하고 다운로드할 수 있습니다.
 
